@@ -1,4 +1,4 @@
-# Laravel Zamanlanmış Görevleri Windows'ta Çalıştırma
+![image](https://github.com/user-attachments/assets/b8851185-169c-4de2-a30d-20200f4607fc)# Laravel Zamanlanmış Görevleri Windows'ta Çalıştırma
 
 Laravel belgeleri, zamanlanmış görevlerin Linux sistemlerinde cron işleri kullanılarak nasıl çalıştırılacağını açıklar. Ancak, Windows'ta cron işleri mevcut değildir. Bunun yerine, Windows Görev Zamanlayıcı'yı kullanarak zamanlanmış görevleri çalıştırabilirsiniz.
 
@@ -9,6 +9,8 @@ Laravel belgeleri, zamanlanmış görevlerin Linux sistemlerinde cron işleri ku
    - `Görev Oluştur...` seçeneğine tıklayın.
    - Göreve bir isim ve açıklama verin.
    - Görevi arka planda çalıştırmak için `Kullanıcı oturum açmış olmasa da çalıştır` seçeneğini seçin ve `Gizli` onay kutusunu işaretleyin.
+  
+   - ![image](https://github.com/user-attachments/assets/8509f0c1-5555-4103-9074-13b880c976a9)
 
 3. **Tetikleyiciler**
    - Yeni bir tetikleyici oluşturun.
